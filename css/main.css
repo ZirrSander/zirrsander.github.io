@@ -1,11 +1,11 @@
 h1{
-    color: green;
+    color: rgb(199, 5, 5);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1,5rem;
 }
 
 body{
-    background-color: khaki;
+    background-color: rgba(240, 230, 140, 0.521);
     font-family: Arial, Helvetica, sans-serif;
 }
 
